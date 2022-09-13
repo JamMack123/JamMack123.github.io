@@ -1,2 +1,2 @@
 # JamMack123.github.io
-Using GitHub Pages to make a portfolio website
+Now how do I add other things to this website to make things look better and cooler?
