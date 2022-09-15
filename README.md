@@ -1,2 +1,2 @@
 # JamMack123.github.io
-Now how do I add other things to this website to make things look better and cooler?
+This is my attempt at making a website using GitHub pages
